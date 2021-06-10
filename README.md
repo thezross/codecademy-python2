@@ -44,30 +44,30 @@ Now that you’ve learned about lists, let’s turbo-charge them with functions.
 - listfunc.py
 - battleship.py
 
-<u>Loops</u>
+**Loops**<br />
 Learn about ‘while’ and ‘for’ loops in Python.
 - loops.py
 - practice.py
 - cmdlncalc.py
 - loops.py
 
-<u>Exam Statistics</u>
+**Exam Statistics**<br />
 In this project, we’ll write a program to compute test scores.
 - examstats.py
 
-<u>Advanced Topics in Python</u>
+**Advanced Topics in Python**<br />
 Learn some of the more complex aspects of Python, including data structures, list comprehensions, list slicing, and lambda expressions.
 - advtopics.py
 - introbitwiseop.py
 - rdbhexconvert.py
 
-<u>Introduction to Classes</u>
+**Introduction to Classes**<br />
 Learn what classes are, why they’re important, and how to use them effectively.
 - introclass.py
 - class.py
 - bankacct.py
 
-<u>File Input and Output</u>
+**File Input and Output**<br />
 Apply what you’ve learned about Python to a real-world application.
 - inputout.py
 - dna.py
