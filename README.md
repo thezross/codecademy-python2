@@ -48,8 +48,7 @@ Now that you’ve learned about lists, let’s turbo-charge them with functions.
 Learn about ‘while’ and ‘for’ loops in Python.
 - loops.py
 - practice.py
-- cmdlncalc.py
-- loops.py
+- cmdlncal.py
 
 **Exam Statistics**<br />
 In this project, we’ll write a program to compute test scores.
@@ -59,7 +58,7 @@ In this project, we’ll write a program to compute test scores.
 Learn some of the more complex aspects of Python, including data structures, list comprehensions, list slicing, and lambda expressions.
 - advtopics.py
 - introbitwiseop.py
-- rdbhexconvert.py
+- rgbhexconvert.py
 
 **Introduction to Classes**<br />
 Learn what classes are, why they’re important, and how to use them effectively.
