@@ -8,4 +8,17 @@ class Triangle(object):
         if self.angle1 + self.angle2 + self.angle3 == 180:
             return True
         else:
-            return False 
+            return False
+
+class Equilateral(Triangle):
+  angle = 60
+  def __init__(self):
+    self.angle1 = self.angle
+    self.angle2 = self.angle
+    self.angle3 = self.angle
+
+isosceles = Triangle(45,45,90)
+equil = Equilateral()
+print equil.check_angles()
+print isosceles.angle3
+print equil.angle3
